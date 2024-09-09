@@ -1,0 +1,174 @@
+Exploring Emerging Technologies
+
+~ Cloud Computing ~
+
+Purpose: Cloud Computing is the on-demand delivery of IT resources over the 
+Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining
+physical data centers and servers, users can access technology services such as
+computing power, storage, databases, on an as-needed basis from a cloud 
+provider like Amazon Web Services. The cloud computing offers customers 
+greater flexibility and scalability compared to traditional on-premises infrastructure. 
+
+Usage: Cloud computing in higher education has the power to process
+complex workloads and store large amounts of data which helps researchers
+to get more time to dedicate to research, speeding up innovation and time to
+insights. Students and faculty can access digital resources through the cloud, 
+which improves access to educational materials while reducing paper waste
+and eliminates the need for expensive physical textbooks.
+
+With cloud computing, businesses can recover quickly from disasters and
+maintain operations with minimal disruption. Cloud storage solutions 
+offer redundancy and data replication, reducing the risk of data loss due
+to hardware failures or other issues. By storing data across multiple servers
+and locations, cloud providers ensure that information remains accessible
+even if one server fails. 
+
+Example: 
+Netflix relies on cloud-computing services to run its video-streaming service
+and it other business systems, too. 
+
+Sources:
+https://aws.amazon.com/what-is-cloud-computing/
+https://www.pluralsight.com/blog/cloud/cloud-computing-higher-education
+https://www.maropost.com/blog/5-real-world-examples-of-cloud-computing/
+https://www.vodien.com/learn/top-10-benefits-of-cloud-computing/
+
+
+~ Machine Learning ~
+
+Purpose: Machine Learning encompasses a comprehensive array of learning
+and training tools powered by self-improving deep learning algorithms that
+can process big data, identify key metrics, recurring patterns, and relations 
+among variables, and therefore understand how such factors influence the
+core trends and scenarios in this sector. 
+
+Usage: Machine Learning-based predictive data analytics helps cater to the
+unique needs of every student. This technology has been implemented into
+several eLearning software solutions to monitor various parameters such
+as exercise completion time, time spent on the platform, number of logins,
+and test results, and assess student performance, engagement, and learning 
+patterns, or even forecast learning outcomes. 
+
+When machine learning algorithms are fed a steady stream of real-time data,
+they can quickly detect bottlenecks, anomalies, and other operational inefficiencies. 
+Organizations can use this information to figure out how to automate repetitive
+tasks and streamline recurring work processes. 
+
+Example: A logistics company can use machine learning to analyze real-time
+streaming data to determine the best routes and better predict demand, which
+can then help them maintain optimal staffing levels to reduce costs and 
+maximize margins.
+
+Sources: https://www.itransition.com/machine-learning/education#:~:
+text=Machine%20learning%20in%20education%20transforms%20the%2
+0learning%20process,to%20make%20education%20more%20inclusive%2C%
+20accessible%2C%20and%20engaging.
+
+https://www.forbes.com/councils/forbestechcouncil/2023/07/25/the-
+power-of-machine-learning-the-business-impact-on-real-time-data/#:~:
+text=When%20machine%20learning%20algorithms%20are%20fed%
+20a%20steady,automate%20repetitive%20tasks%20and%20streamline%
+20recurring%20work%20processes.
+
+https://www.zdnet.com/article/what-is-cloud-computing-everything-
+you-need-to-know-about-the-cloud/
+
+~ Artificial Intelligence ~
+
+Purpose: Artificial Intelligence (AI) is technology that enables computers
+and machines to simulate human learning, comprehension, problem solving,
+decision making, creativity, and autonomy. Applications and devices equipped
+with AI can see and identify objects. They can understand and respond to
+human language. They can learn new information and experience. and make
+detailed recommendations to users and experts. They can act independently,
+replacing the need for human intelligence or intervention. 
+
+Usage: AI help foster the skills students will need to navigate and shape the
+future. Tools like ChatGPT can help promote students' critical thinking
+when used in sophisticated ways for deeper, more engaged learning. It can
+accelerate the long overdue transformation of education systems towards
+inclusive learninig that will prepare young people to thrive and shape a 
+better future. At the same time. teachers can use these technologies to 
+enhance their teaching practice and professional experience. 
+
+AI in cybersecurity can work with vast databases that most cybersecurity
+companies maintain to check for virus attacks. The technology is also being
+adopted by antivirus companies to provide a proactice method of combating
+cyberattacks. 
+
+Example: Out in the fields and in the AgTech world, farmers and scientist
+are using AI to monitor crops, predict yields and keep pests at bay. AI-enabled
+precision farming helps farmers make data-driven decisions so they can 
+optimize irrigations, improve fertilization and reduce waste. 
+
+Sources: 
+https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/
+https://www.ibm.com/topics/artificial-intelligence
+https://www.weforum.org/agenda/2023/05/ai-accelerate-students-holistic-development-teaching-fulfilling/
+
+~ Blockchain ~
+
+Purpose: Blockchain is a shared, immutable ledger that facilitates the 
+process of recording transactions and tracking assets in a business networks.
+It provides immediate, shared, and observable information that is stored
+on an immutable ledger that only permissioned network members can access. 
+A blockchain network can track orders, payments, accounts, production and
+more. And because members share a single view of the truth, users can see
+all details of a transaction end to end, giving greater confidence, and new 
+efficiencis and opportunities. 
+
+Usage: Blockchain's immutable ledger technology creates a chronological
+list of events that have transpired in real time. These academic records are
+useful for verifying transcript, diplomas, and test scores. In addition, teachers,
+university administrators, and students can use smart contracts to agree on
+assignment due dates and even deploy student loan payments. 
+
+Deemed as a "new weapon in cybersecurity," blockchain's decentralized, 
+tamper-proof ledger comes with built-in defenses against theft, fraud, and
+unauthorized users via cryptographic coding and consensus mechanisms. 
+Because of this, blockchain has been adopted into cybersecurity arsenals to
+maintain cryptocurrency, secure bank assets, protect patient health records,
+fortify IoT devices and even safeguard military and defense data. 
+
+Example: Parchment offers digital credential services to students, academic
+institutions and employers. K-12 educators use the company's blockchain to
+upload any important developmental progress while higher education institutions
+use the platform to review academic merit, process applications and produce
+immutable diplomas. Additionally, students have full-time access to all
+educational information and can easily share academic achievements with
+future employers. 
+
+Sources: https://www.ibm.com/topics/blockchain
+https://builtin.com/blockchain
+https://builtin.com/blockchain/blockchain-education
+
+~Gamification ~
+
+Purpose: Gamification is a strategy that intergrates entertaining and immersive
+gaming elements into nongame contexts to enhance engagement and motivate 
+certain behaviors. Gamification uses game design and mechanics, such as badges,
+leaderboards, points and rewards, to encourage active participation and
+make tasks fun and enjoyable. The goal is to boost motivation, improve
+material retention, and encourage active participation through immediate
+feedback. 
+
+Usage: In education, gamification is intended to transform traditional lessons
+into a enhanced learning experience where students choose to explore and
+practice content, earning badges and status benefits. Educators can increase
+student engagement and satisfaction with gamification. By integrating common
+gaming elements such as competition, challenges, and rewards, students are
+motivated to learn and play an active role in their learning. 
+
+Gamification has proven effective in enhancing workplae training and improving
+employee engagement. 
+
+Example: Companies such as Deloitte and IBM have used gamified training
+programs to increase knowledge retention, encourage collaboration and motivate 
+employees to complete training modules. 
+
+Sources:
+https://www.techtarget.com/searchHRSoftware/definition/
+gamification#:~:text=Gamification%20is%20a%20strategy%20that
+%20integrates%20entertaining%20and,active%20participation%20and
+%20make%20tasks%20fun%20and%20enjoyable.
+
