@@ -1,24 +1,15 @@
-import './App.css';
+let content;
 
-const user = {
-  name: 'Cutie Pie',
-  imageUrl: 'https://i.imgur.com/yXOvdOSs.jpg',
-  imageSize: 400,
-};
+if (isLoggedIn) {
+  content = <AdminPanel />;
+} else {
+  content = <LoginForm />;
+}
 
-export default function Profile() {
+export default function ConditionalRendering() {
   return (
-    <>
-      <h1>{user.name}</h1>
-      <img 
-        className="avatar"
-        src={user.imageUrl}
-        alt={'Photo of ' + user.name}
-        style = {{
-          width: user.imageSize,
-          height: user.imageSize
-        }}
-      />
-    </>
+    <div>
+      {content}
+    </div>
   );
 }
