@@ -1,14 +1,21 @@
-function MyButton() {
+function AboutPage() {
   return (
-    <button>I'm a button</button>
+    <>
+     <h1>About</h1>
+     <p><i>Hello there!</i><br />How do you do?</p>
+    </>
   );
 }
+
 
 export default function MyApp() {
   return (
     <div>
-      <h1>Welcome to my App!</h1>
-      <MyButton />
+      <AboutPage />
     </div>
   );
 }
+
+
+
+
