@@ -1,22 +1,13 @@
-const products = [
-  {title: 'Cabbage', isFruit: false, id: 1},
-  {title: 'Garlic', isFruit: false, id: 2},
-  {title: 'Apple', isFruit: true, id: 3},
-];
+function MyButton() {
+  function handleClick() {
+    alert('You clicked!');
+  }
 
-export default function ShoppingLists() {
-  const listItems = products.map (product =>
-    <li 
-      key = {product.id}
-      style = {{
-        color: product.isFruit ? 'magenta' : 'darkgreen'
-      }}
-    >
-      {product.title}
-    </li>
+  return (
+    <button onClick = {handleClick}>
+      Click.
+    </button>
   );
-
-    return (
-      <ul>{listItems}</ul>
-    );
 }
+
+export default MyButton
